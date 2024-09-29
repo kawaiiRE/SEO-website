@@ -11,14 +11,10 @@ The **Local Business Website for SEO** is a simple, single-page application buil
 
 ## Getting Started
 
-### Prerequisites
-- Node.js (version 14 or higher)
-- npm (version 6 or higher)
-
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/seo-website.git
+   git clone https://github.com/kawaiiRE/SEO-website
 
 2. Navigate to the project directory:
    cd seo-website
